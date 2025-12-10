@@ -8,4 +8,10 @@ Every story is the consequence of other stories. This project focuses on interte
 
 <b> Project repository</b>: https://github.com/ariadne28/Inside-Life-Is-Strange
 
+## Workflow
+
+<p align="center">
+  <img src="/workflow.png" alt="Workflow diagram" width="600">
+</p>
+
 // Downloadable PDF file coming soon
