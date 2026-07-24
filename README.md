@@ -13,5 +13,3 @@ Every story is the consequence of other stories. This project focuses on interte
 <p align="center">
   <img src="/workflow.png" alt="Workflow diagram" width="600">
 </p>
-
-// Downloadable PDF file coming soon
